@@ -1,0 +1,9 @@
+{
+  "name": "Shared.Editor",
+  "references": [
+    "Shared.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
